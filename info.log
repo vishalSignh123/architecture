@@ -408,3 +408,13 @@
   message: 'Connected to MongoDB...',
   timestamp: '2022-10-31T12:21:04.841Z'
 }
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-10-31T13:14:57.710Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-10-31T13:14:57.740Z'
+}
