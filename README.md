@@ -1,2 +1,2 @@
-# architecture-task
+# architecture
 For Eslint and husky
