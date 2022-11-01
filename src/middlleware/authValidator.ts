@@ -1,5 +1,6 @@
 import { AuthenticationError } from "apollo-server-express";
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export const useAuthValidator = (context: any) => {
     const { currentUser } = context.req;
     if (!currentUser) {

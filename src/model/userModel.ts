@@ -3,10 +3,10 @@ import { Role } from "../utils/enum/role";
 import { nanoid } from 'nanoid'
 
 export default {
-     id: {
+     _id: {
         type: String,
         default: () => nanoid(7),
-        index: { unique: true },
+        // index: { unique: true },
      },
     firstName: {
         type: String,

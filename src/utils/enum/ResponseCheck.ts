@@ -3,6 +3,7 @@ import { logger } from "../../service/logger/logger";
 import StatusCodeEnum from "./StatusCodeEnum";
 
 export const Response = {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   checkStatus: (response: any) => {
     if (response.status === StatusCodeEnum.OK) return;
     // if (response.status === StatusCodeEnum.NOT_FOUND) return;
@@ -10,6 +11,7 @@ export const Response = {
       errors: response?.error?.details || [],
     });
   },
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   catchThrow: (err: any) => {
     console.log(err);
     logger.log("error", err.message);

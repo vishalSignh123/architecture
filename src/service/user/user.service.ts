@@ -70,6 +70,7 @@ export default class UserService implements IUserService.IUserServiceAPI {
                         status: StatusCodeEnum.INTERNAL_SERVER_ERROR,
                         error: ErrorMessageEnum.USER_EXIST,
                     };
+                   
                     return response;
                 }
                 const userAttributes = {
@@ -91,7 +92,6 @@ export default class UserService implements IUserService.IUserServiceAPI {
                 // console.log("response", response)
                 return response;
             } catch (e) {
-                console.log("error",)
                 logger.error(e);
                 response ={
                     status: StatusCodeEnum.INTERNAL_SERVER_ERROR

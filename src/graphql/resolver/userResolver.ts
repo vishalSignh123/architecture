@@ -63,6 +63,7 @@ export const resolver = {
                                                                                                                 
             try {
                 response = await proxy.user.register(request);
+                Response.checkStatus(response);
             } catch (e) {
                 Response.catchThrow(e);
             }

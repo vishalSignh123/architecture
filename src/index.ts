@@ -3,6 +3,7 @@ import App from "./app";
 import { PORT } from "./env";
 import { logger } from './service/logger/logger'
 try {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const result: any = config();
     if (result && result.parsed) {
         Object.keys(result.parsed).forEach((key) => {

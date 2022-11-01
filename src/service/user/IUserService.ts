@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import IUser from "./IUser";
 import { IRequest, IResponse } from "../../utils/enum/common";
 import { Role } from "../../utils/enum/role";

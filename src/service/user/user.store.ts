@@ -26,6 +26,7 @@ export default class UserStore {
      * @returns Promise
      */
     public async findByEmail(email: string): Promise<IUser> {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         let user: any;
         try {
             user = await User.findOne({
@@ -56,7 +57,9 @@ export default class UserStore {
      * @param  {any} attribute
      * @returns Promise
      */
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     public async get(attribute: any): Promise<IUser> {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         let user: any;
         try {
             user = await User.findOne(attribute);
