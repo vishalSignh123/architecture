@@ -751,3 +751,1528 @@
   message: 'Connected to MongoDB...',
   timestamp: '2022-11-01T04:48:32.756Z'
 }
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 400',
+  timestamp: '2022-11-01T05:20:21.850Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:20:21.877Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 400',
+  timestamp: '2022-11-01T05:24:28.392Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:24:28.411Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4003',
+  timestamp: '2022-11-01T05:27:31.453Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:27:31.479Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4003',
+  timestamp: '2022-11-01T05:27:57.532Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:27:57.559Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4003',
+  timestamp: '2022-11-01T05:29:06.652Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:29:06.675Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4003',
+  timestamp: '2022-11-01T05:29:53.495Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:29:53.516Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:30:05.224Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:30:05.257Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T05:30:28.555Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T05:30:28.557Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T05:30:40.662Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-11-01T05:30:40.663Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:33:33.784Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:35:05.358Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:35:05.385Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:35:13.795Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:36:26.461Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:36:26.490Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:36:50.981Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:36:51.004Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:36:54.319Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:37:12.771Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:37:12.792Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:37:15.206Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:41:26.292Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:42:04.359Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:42:04.392Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:42:06.524Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:42:25.432Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:42:25.459Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:42:32.412Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:44:22.246Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:44:22.364Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:47:16.927Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:47:16.952Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:47:24.570Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:47:43.958Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:47:43.981Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:48:14.085Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:48:14.108Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:49:32.728Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:49:32.765Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:49:48.561Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:49:48.587Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:50:40.398Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:51:02.455Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:51:02.484Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:52:01.611Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:52:01.634Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:52:35.752Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:52:35.777Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:52:56.125Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:53:08.993Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:53:17.228Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:53:26.909Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:53:38.945Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:55:03.935Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:55:03.955Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T05:55:14.278Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T05:55:54.003Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T05:55:54.005Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:57:06.440Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:57:06.489Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:57:35.159Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:57:35.183Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T05:57:37.198Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T05:57:37.201Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T05:59:45.557Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T05:59:45.580Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:01:07.329Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:01:07.353Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:01:50.077Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:01:50.112Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:02:10.457Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:02:10.507Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:02:49.058Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:02:49.084Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:02:51.598Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T06:02:51.600Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:03:27.463Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:03:27.483Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:04:27.305Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:04:27.331Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:04:38.272Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:04:38.311Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:10:43.314Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:10:43.336Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:10:52.260Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:10:52.301Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:11:35.865Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:11:35.890Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:11:40.565Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T06:11:40.566Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:13:03.345Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-11-01T06:13:03.347Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:14:20.882Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:14:20.908Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:14:22.600Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T06:14:22.602Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:15:42.554Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:15:42.577Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:16:03.544Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:16:03.571Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:16:05.689Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T06:16:05.691Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:20:31.598Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:20:31.619Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:21:00.897Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:21:00.918Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:21:02.865Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: '',
+  timestamp: '2022-11-01T06:21:02.867Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:21:41.569Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:21:41.594Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:21:48.689Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: '',
+  timestamp: '2022-11-01T06:21:48.692Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:22:12.017Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:22:12.042Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:22:16.817Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: '',
+  timestamp: '2022-11-01T06:22:16.818Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:23:12.777Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:23:12.799Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:23:45.469Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:23:45.491Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:24:09.062Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:24:09.090Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:24:34.696Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:24:34.718Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:24:40.488Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: '',
+  timestamp: '2022-11-01T06:24:40.490Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:27:20.031Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:27:20.086Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:27:46.384Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:27:46.407Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:27:50.830Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: '',
+  timestamp: '2022-11-01T06:27:50.831Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:28:26.247Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:28:26.270Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:29:21.141Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:29:21.170Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:29:45.880Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:29:45.904Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:29:48.244Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: '',
+  timestamp: '2022-11-01T06:29:48.245Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:30:06.841Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:30:06.862Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:30:21.511Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:30:21.535Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:30:44.702Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: '',
+  timestamp: '2022-11-01T06:30:44.703Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:33:05.726Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:33:05.758Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:33:24.388Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:33:24.451Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:33:38.115Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:33:38.139Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:34:03.753Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:34:03.778Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:34:08.191Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: '',
+  timestamp: '2022-11-01T06:34:08.192Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:36:54.865Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:36:54.890Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:37:08.070Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T06:37:08.074Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:41:09.094Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:41:09.117Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:41:21.470Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:41:21.500Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:42:01.738Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:42:01.763Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:43:46.054Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:43:46.076Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:44:39.306Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:44:39.328Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:48:21.484Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:48:21.506Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:48:26.683Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T06:48:26.684Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:53:22.995Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T06:53:22.997Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:54:10.127Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:54:10.173Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:54:34.120Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:54:34.143Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T06:54:35.722Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T06:54:35.723Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:54:45.793Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:54:45.822Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T06:56:15.367Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T06:56:15.390Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:01:38.363Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:01:38.367Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:04:37.727Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:04:37.754Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:04:43.830Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:04:43.832Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:09:20.407Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:09:20.434Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:09:24.627Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:09:24.629Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:09:27.178Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:09:27.179Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:10:17.936Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:10:17.964Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:12:18.207Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:12:18.233Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:12:21.490Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:12:21.492Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:13:15.250Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:13:15.274Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:14:27.384Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:14:27.419Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:20:48.799Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:20:48.874Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:23:11.886Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:23:11.911Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:25:50.404Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:25:50.427Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:25:55.641Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:25:55.643Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:35:37.015Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:35:37.042Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:35:46.863Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:35:46.866Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:37:02.798Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:37:02.821Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:39:32.940Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:39:32.965Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:39:37.716Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:39:37.718Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:40:12.036Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:40:12.057Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:40:19.014Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:40:19.016Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:41:43.460Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:41:43.487Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:48:48.807Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:48:48.851Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:49:04.678Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:49:04.714Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:49:06.830Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:49:06.833Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:49:30.092Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:49:30.127Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:49:46.462Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:49:46.501Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:50:00.635Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:50:00.638Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:50:21.462Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:50:21.504Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T07:55:25.549Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T07:55:25.572Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T07:55:32.973Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T07:55:32.975Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T08:05:29.114Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T08:05:29.140Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:05:32.027Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T08:05:32.029Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T08:09:30.306Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T08:09:30.329Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:09:35.649Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T08:09:35.651Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:09:51.151Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T08:09:51.153Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:10:41.321Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T08:10:41.322Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:10:54.590Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:10:54.593Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T08:12:31.441Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T08:12:31.460Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:12:49.835Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:12:49.839Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:12:51.322Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:12:51.324Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:12:52.009Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:12:52.011Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:12:52.653Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:12:52.655Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:12:53.336Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:12:53.338Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:12:54.884Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:12:54.885Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:12:55.562Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:12:55.564Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:12:56.305Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:12:56.307Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'ValidationError: "firstName" is not allowed to be empty. "lastName" is not allowed to be empty. "email" is not allowed to be empty. "password" is not allowed to be empty. "role" is not allowed to be empty',
+  timestamp: '2022-11-01T08:13:11.656Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:13:23.905Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:13:23.906Z'
+}
+{
+  message: 'User with same Email already exist',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:14:01.939Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'User with same Email already exist',
+  timestamp: '2022-11-01T08:14:01.940Z'
+}
+{
+  _original: { email: '', password: '' },
+  details: [
+    {
+      message: '"email" is not allowed to be empty',
+      path: [ 'email' ],
+      type: 'string.empty',
+      context: { label: 'email', value: '', key: 'email' }
+    }
+  ],
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:15:41.067Z'
+}
+{
+  message: 'Record Not Found',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:15:41.067Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Record Not Found',
+  timestamp: '2022-11-01T08:15:41.069Z'
+}
+{
+  message: 'Invalid Request Created',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:16:06.379Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Request Created',
+  timestamp: '2022-11-01T08:16:06.380Z'
+}
+{
+  message: 'Invalid Email or Code!!',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2022-11-01T08:16:18.724Z'
+}
+{
+  level: '\x1B[31merror\x1B[39m',
+  message: 'Invalid Email or Code!!',
+  timestamp: '2022-11-01T08:16:18.725Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'App listening on the port 4002',
+  timestamp: '2022-11-01T09:11:02.827Z'
+}
+{
+  level: '\x1B[32minfo\x1B[39m',
+  message: 'Connected to MongoDB...',
+  timestamp: '2022-11-01T09:11:02.854Z'
+}
