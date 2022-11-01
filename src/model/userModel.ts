@@ -5,7 +5,8 @@ import { nanoid } from 'nanoid'
 export default {
      _id: {
         type: String,
-        default: () => nanoid(7),
+        required:false,
+        default: () => nanoid(),
         // index: { unique: true },
      },
     firstName: {
@@ -19,7 +20,7 @@ export default {
     email: {
         type: String,
         required: true,
-        unique:true,
+        // unique:true,
     },
     password: {
         type: String,

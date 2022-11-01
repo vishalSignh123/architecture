@@ -10,7 +10,7 @@ const typeDefs = gql`
   # User
   ################################################################
   type User {
-    id: String
+    _id: String
     email: String
     firstName: String
     lastName: String
@@ -19,7 +19,7 @@ const typeDefs = gql`
   }
 
     input UserInput {
-      id: String
+      _id: String
       email: String
       firstName: String
       lastName: String

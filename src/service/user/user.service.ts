@@ -21,7 +21,7 @@ export default class UserService implements IUserService.IUserServiceAPI {
     /*****Generate a Token*****/
     private generateJWT = (user: IUser): string => {
         const payLoad = {
-            id: user.id,
+            id: user._id,
             email: user.email,
             role: user.role,
         };
@@ -51,6 +51,7 @@ export default class UserService implements IUserService.IUserServiceAPI {
             console.error(params.error);
             response.status = StatusCodeEnum.UNPROCESSABLE_ENTITY;
             response.error = params.error;
+            
             return response;
         }
 

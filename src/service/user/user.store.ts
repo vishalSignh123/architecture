@@ -3,7 +3,7 @@ import IUser from "./IUser";
 import UserMongo from "../../model/userModel";
 
 export interface IUserModel extends IUser, Document {
-    id: string;
+    _id: string;
 }
 
 export const UserSchema = new Schema(UserMongo, {

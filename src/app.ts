@@ -63,6 +63,18 @@ export default class App {
 	}
 
 	private async initializeApollo() {
+		const setHttpPlugin = {
+		async requestDidStart() {
+			return {
+			async willSendResponse( { response }:any ) {
+				if (response?.errors?.length > 0) {
+					const code = Number(response?.errors[0]?.extensions?.code) || 400;
+					response.http.status = code;
+				}
+			},
+			};
+		},
+    };
 		const server = new ApolloServer({
 			// uploads: true,
 			schema,
@@ -74,6 +86,7 @@ export default class App {
 				process.env.NODE_ENV === "production"
 					? ApolloServerPluginLandingPageDisabled()
 					: ApolloServerPluginLandingPageGraphQLPlayground(),
+					setHttpPlugin,
 			],
 		});
 

@@ -6,7 +6,6 @@ export const Response = {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   checkStatus: (response: any) => {
     if (response.status === StatusCodeEnum.OK) return;
-    // if (response.status === StatusCodeEnum.NOT_FOUND) return;
     throw new ApolloError(response.error, response.status.toString(), {
       errors: response?.error?.details || [],
     });

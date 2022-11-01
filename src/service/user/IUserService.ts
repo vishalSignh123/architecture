@@ -18,7 +18,7 @@ export interface IAuthenticateUserResponse extends IResponse {
 }
 
 export interface IRegisterUserRequest extends IRequest {
-    id?: string;
+    _id?: string;
     firstName: string;
     lastName: string;
     email: string;
